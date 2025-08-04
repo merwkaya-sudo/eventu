@@ -10,6 +10,7 @@ interface EventCardProps {
   attendees: number;
   image: string;
   isOnline?: boolean;
+  url?: string;
 }
 
 const EventCard: React.FC<EventCardProps> = ({
@@ -19,7 +20,8 @@ const EventCard: React.FC<EventCardProps> = ({
   category,
   attendees,
   image,
-  isOnline = false
+  isOnline = false,
+  url
 }) => {
   return (
     <div className="group bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 overflow-hidden">
