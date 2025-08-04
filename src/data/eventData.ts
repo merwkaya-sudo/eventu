@@ -18,7 +18,7 @@ export const eventData: EventData[] = [
     location: "Online",
     category: 'AI',
     attendees: 500,
-    image: 'https://images.ctfassets.net/b7nkce0x59hz/3c2wbiDuPudUm2kjRNTMIp/87be90c6fd51e9b6b1d8e6b308847623/AI_Meetup_-_Microsoft_Software_Engineer.png?w=1920&q=50',
+    image: 'https://images.ctfassets.net/07rswh4u2vnb/4amva3p0ZBWlhZw3AfRldm/8a0c8373a97e2f8dc2d7b31ac17005da/AI_Meetup_Thumbnail.png',
     isOnline: true,
     url: "https://lu.ma/k8bp2p3a"
   },
@@ -29,7 +29,7 @@ export const eventData: EventData[] = [
     location: "Online",
     category: 'PM',
     attendees: 300,
-    image: 'https://images.ctfassets.net/b7nkce0x59hz/6nM6CH8ZnqAI2zpPVLhFQY/acc0b3c05fc61efac763d2ea7b8c02a6/hasan-soylemez.png?w=1920&q=50',
+    image: 'https://images.ctfassets.net/07rswh4u2vnb/2V3yie8TLVEUcuVShn9oLw/72ed92ff294fd251218ae9b1d92cc898/BoaFolks5_Thumbnail.png',
     isOnline: true,
     url: "https://lu.ma/tpgtml47"
   },
@@ -38,9 +38,9 @@ export const eventData: EventData[] = [
     title: "DIY AI – Own Your Intelligence",
     date: "2024-08-28",
     location: "Online",
-    category: 'AI Tools',
+    category: 'Create Image',
     attendees: 250,
-    image: 'https://images.ctfassets.net/b7nkce0x59hz/7jjqbYaa0Ao9j3XKrvlbnd/f6b9d1ab6e946c03fc96d0c96973f31b/diy-ai-own-intelligence.png?w=1920&q=50',
+    image: 'https://images.ctfassets.net/07rswh4u2vnb/4HLa1BE3vW6MqqhdY5Z3oL/734c9e46950e1d4a58d04ef8a5d84fc5/DIY_AI_Thumbnail.png',
     isOnline: true,
     url: "https://lu.ma/xexdptms"
   },
@@ -49,9 +49,9 @@ export const eventData: EventData[] = [
     title: "Novus Meetups: Product & Design Talks",
     date: "2024-09-19",
     location: "Online",
-    category: 'Design',
+    category: 'AI',
     attendees: 400,
-    image: 'https://images.ctfassets.net/b7nkce0x59hz/38FlJ9Fdu59EuJ0tmyZ5oF/fc3b3d96dcfd3b90d8b5a3a39a0f9323/novus-product-design.png?w=1920&q=50',
+    image: 'https://images.ctfassets.net/07rswh4u2vnb/5gfylg2M7zRA7Fl8cZ30YF/5e7e8a31fcf08637b09c9605f0fc59ce/Novus_Meetups_Thumbnail.png',
     isOnline: true,
     url: "https://lu.ma/tla76mad"
   }
