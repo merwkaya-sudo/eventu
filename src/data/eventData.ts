@@ -13,7 +13,7 @@ export interface EventData {
 export const eventData: EventData[] = [
   {
     id: '1',
-    title: "Women in AI: European Edition",
+    title: "AI Meetup with Microsoft Software Engineer",
     date: "2024-09-12",
     location: "Online",
     category: 'AI',
@@ -24,7 +24,7 @@ export const eventData: EventData[] = [
   },
   {
     id: '2',
-    title: "AI Product Manager Summit",
+    title: "BoaFolks #5 - Hasan Söylemez ile Tenere'den Nereye; Yapay Zeka Ne Yapar?",
     date: "2024-09-05",
     location: "Online",
     category: 'PM',
@@ -35,7 +35,7 @@ export const eventData: EventData[] = [
   },
   {
     id: '3',
-    title: "AI & Design Thinking",
+    title: "DIY AI – Own Your Intelligence",
     date: "2024-08-28",
     location: "Online",
     category: 'Create Image',
@@ -46,10 +46,10 @@ export const eventData: EventData[] = [
   },
   {
     id: '4',
-    title: "The Future of Ethical AI",
+    title: "Novus Meetups: Product & Design Talks",
     date: "2024-09-19",
     location: "Online",
-    category: 'AI',
+    category: 'Design',
     attendees: 400,
     image: 'https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=800',
     isOnline: true,
