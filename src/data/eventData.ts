@@ -18,7 +18,7 @@ export const eventData: EventData[] = [
     location: "Online",
     category: 'AI',
     attendees: 500,
-    image: 'https://images.ctfassets.net/07rswh4u2vnb/4amva3p0ZBWlhZw3AfRldm/8a0c8373a97e2f8dc2d7b31ac17005da/AI_Meetup_Thumbnail.png',
+    image: 'https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800',
     isOnline: true,
     url: "https://lu.ma/k8bp2p3a"
   },
@@ -29,7 +29,7 @@ export const eventData: EventData[] = [
     location: "Online",
     category: 'PM',
     attendees: 300,
-    image: 'https://images.ctfassets.net/07rswh4u2vnb/2V3yie8TLVEUcuVShn9oLw/72ed92ff294fd251218ae9b1d92cc898/BoaFolks5_Thumbnail.png',
+    image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800',
     isOnline: true,
     url: "https://lu.ma/tpgtml47"
   },
@@ -40,7 +40,7 @@ export const eventData: EventData[] = [
     location: "Online",
     category: 'Create Image',
     attendees: 250,
-    image: 'https://images.ctfassets.net/07rswh4u2vnb/4HLa1BE3vW6MqqhdY5Z3oL/734c9e46950e1d4a58d04ef8a5d84fc5/DIY_AI_Thumbnail.png',
+    image: 'https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800',
     isOnline: true,
     url: "https://lu.ma/xexdptms"
   },
@@ -51,7 +51,7 @@ export const eventData: EventData[] = [
     location: "Online",
     category: 'AI',
     attendees: 400,
-    image: 'https://images.ctfassets.net/07rswh4u2vnb/5gfylg2M7zRA7Fl8cZ30YF/5e7e8a31fcf08637b09c9605f0fc59ce/Novus_Meetups_Thumbnail.png',
+    image: 'https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg?auto=compress&cs=tinysrgb&w=800',
     isOnline: true,
     url: "https://lu.ma/tla76mad"
   }
