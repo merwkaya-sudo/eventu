@@ -16,7 +16,7 @@ const Hero = () => {
         <div className="flex items-center justify-center mb-6">
           <Sparkles className="w-5 h-5 text-[#F2E9E4] mr-2 opacity-80" />
           <p className="text-[#F2E9E4] text-lg font-medium opacity-90">
-            Merve, hoşgeldin
+            Hoşgeldin
           </p>
         </div>
 
